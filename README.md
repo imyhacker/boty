@@ -5,12 +5,8 @@
 <details>
  <summary>🥟 Help me!</summary>
 
- [Saweria](https://saweria.co/donate/yogasakti)
- 
- [Trakteer](https://trakteer.id/red-emperor)
- 
- [Paypal.me](https://paypal.me/yshputra)
- 
+ [Saweria](https://saweria.co/donate/arikun)
+  
 </details>
 </div>
 
