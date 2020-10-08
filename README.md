@@ -1,12 +1,16 @@
 <div align="center">
  
 # Whatsapp Bot - sticker creator
-
+[![Codefactor](https://www.codefactor.io/repository/github/yogasakti/imagetosticker/badge)](https://www.codefactor.io/repository/github/yogasakti/imagetosticker)
 <details>
  <summary>🥟 Help me!</summary>
 
- [Saweria](https://saweria.co/donate/arikun)
-  
+ [Saweria](https://saweria.co/donate/yogasakti)
+ 
+ [Trakteer](https://trakteer.id/red-emperor)
+ 
+ [Paypal.me](https://paypal.me/yshputra)
+ 
 </details>
 </div>
 
